@@ -21,5 +21,8 @@
   "type": "module",
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "repository": {
+    "url": "https://github.com/MichaelZ35/TweetMonitor"
+  }
 }
